@@ -4,9 +4,9 @@ I've been tasked with the job of sorting, compiling, and presenting the data of 
 The purpose of conducting this research is to hopefully find a trend between the amount ride-sharing apps charge and the city type the customer is located
 
 ## Results
-After conducting the averages for ride-sharing between city types, It is clear that the fares for urban cities are a lot more than the average fare for 
+After conducting the averages for ride-sharing between city types, It is clear that the total fares for urban cities are a lot more than the total fare for suburban and rural cities. This is mainly due to the larger customer base and the much larger percentage in the total amount of drivers.
 
 ## Summary
 After conducting the analysis, here are my business solutions:
-1. offer insentives for rural customers to use the rideharing service since there is little demand in those regions
+1. offer insentives for rural customers to use the rideharing service since there is a smaller amount of drivers in those regions which forces these customers to pay more per ride which is disencouraging customers from using the service.
 2. 
