@@ -5,6 +5,9 @@ The purpose of conducting this research is to hopefully find a trend between the
 
 ## Results
 After conducting the averages for ride-sharing between city types, It is clear that the total fares for urban cities are a lot more than the total fare for suburban and rural cities. This is mainly due to the larger customer base and the much larger percentage in the total amount of drivers.
+![Image](https://github.com/PeterAlesio/PyBer_Analysis/blob/main/PyBer_Analysis/Analysis/Fig7.png)
+In the figure below, 
+![Image](
 
 ## Summary
 After conducting the analysis, here are my business solutions:
